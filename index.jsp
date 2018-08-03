@@ -6,6 +6,6 @@
   </head>
   <script src="../angular.js"></script>
   <body>
-    
+    jsp test
   </body>
 </html>
