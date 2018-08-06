@@ -39,10 +39,10 @@
               <h2 style="text-align:center">Top Banner</h2>
             </div>
             <div class="middleArea">
-              <div class="lineArea ContextLine">
+        <div class="lineArea ContextLine">
                 <h2 style="text-align:center">Contents
                 </h2>
-              </div>
+              </div>  
               <aside class="lineArea">
                 사이드바
               </aside>
